@@ -1,5 +1,5 @@
 ### 中间件
-[redis命令](https://www.redis.net.cn/order/3543.html)
+[redis命令](https://www.redis.net.cn/order/3543.html)、[influxdb文档](https://www.influxdata.com/get-influxdb/)
 ### 运维部署
 [docker hub](https://hub.docker.com)
 ### 学习笔记
