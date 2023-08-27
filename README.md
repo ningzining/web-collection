@@ -1,7 +1,7 @@
 ### 中间件
 [redis命令](https://www.redis.net.cn/order/3543.html)
 ### 运维部署
-[docker hub](https://hub.docker.com)
+[docker hub](https://hub.docker.com)、[k8s中文文档](http://docs.kubernetes.org.cn/)、[k8s官方文档](https://kubernetes.io/zh-cn/docs/home/)
 ### 学习笔记
 [processon](https://www.processon.com)、[语雀](https://www.yuque.com)
 ### node
