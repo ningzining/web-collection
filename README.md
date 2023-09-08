@@ -7,7 +7,7 @@
 ### node
 [npm镜像站](https://npmmirror.com)
 ### go
-[go中文网](https://studygolang.com)、[go书籍](http://books.studygolang.com)
+[pkg.go](https://pkg.go.dev/)、[go中文网](https://studygolang.com)、[go书籍](http://books.studygolang.com)
 ### git
 [github](https://github.com)、[gitee](https://gitee.com)
 ### 云平台
