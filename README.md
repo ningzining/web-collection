@@ -1,5 +1,9 @@
 ### 中间件
 [redis命令](https://www.redis.net.cn/order/3543.html)、[influxdb文档](https://www.influxdata.com/get-influxdb/)
+### 学习网站
+[Makefile](https://seisman.github.io/how-to-write-makefile/)
+### AI
+[文心一言](https://yiyan.baidu.com/)、[通义千问](https://tongyi.aliyun.com/qianwen)
 ### 运维部署
 [docker hub](https://hub.docker.com)、[k8s中文文档](http://docs.kubernetes.org.cn/)、[k8s官方文档](https://kubernetes.io/zh-cn/docs/home/)
 ### 学习笔记
