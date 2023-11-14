@@ -1,7 +1,7 @@
 ### 中间件
 [redis命令](https://www.redis.net.cn/order/3543.html)、[influxdb文档](https://www.influxdata.com/get-influxdb/)
 ### 学习网站
-[Makefile](https://seisman.github.io/how-to-write-makefile/)
+[技术摘抄](https://learn.lianglianglee.com/)、[Makefile](https://seisman.github.io/how-to-write-makefile/)
 ### AI
 [文心一言](https://yiyan.baidu.com/)、[通义千问](https://tongyi.aliyun.com/qianwen)
 ### 运维部署
