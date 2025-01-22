@@ -15,6 +15,7 @@
 - [redis命令](https://www.redis.net.cn/order/3543.html)
 - [influxdb文档](https://www.influxdata.com/get-influxdb/)
 ### 学习网站
+- [编程导航](https://www.codefather.cn/)
 - [技术摘抄](https://learn.lianglianglee.com/)
 - [Makefile文档](https://seisman.github.io/how-to-write-makefile/)
 - [速查表](https://quickref.cn/)
