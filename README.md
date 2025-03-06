@@ -2,8 +2,10 @@
 - [deepseek](https://chat.deepseek.com/)
 - [Kimi](https://kimi.moonshot.cn/)
 - [豆包AI](https://www.doubao.com/chat/)
-- [文心一言](https://yiyan.baidu.com/)
 - [通义千问](https://tongyi.aliyun.com/qianwen)
+- [文心一言](https://yiyan.baidu.com/)
+### 产品
+- [人人都是产品经理](https://www.woshipm.com/)
 ### 搜索引擎
 - [百度](https://www.baidu.com)
 - [bing](https://cn.bing.com)
